@@ -61,7 +61,27 @@ Luego, inicializa los atributos específicos de la clase Alimento, como mesesCad
 + ArrayList<Producto> productos: almacena los productos disponibles.
 + ArrayList<Producto> productosVendidos: almacena los productos que ya han sido vendidos
 + ( para mas detalles dirigase a la presentacion del proyecto, en la carpeta de presentacion).
+
+## Regresion Lineal:
++
++ para este proyecto, se utiliso el modelo de regrecion lineal de otro proyecto de c++ elaborado por el euipo, sin embargo dicha regrecion estaba diseñada para la ser utilizada con 120 mil datos, por lo que al ser utilizada con este proyecto, dava errores, ademas de que hacia calculos inecesarios, y relisaba 20 iteraciones no nesesarias, por lo cual se adapto el codigo en java, tomando como referencia el codigo de c++. ( en el repositorio se puede observar los ejemplos en los que se baso la regrecion final de java, en c++ en la carpeta ( c++) ).
 + 
++ ![image](https://github.com/user-attachments/assets/7384cec6-e0b5-4228-be4d-7405ea201be8)
++
++ ![image](https://github.com/user-attachments/assets/07e68d0b-039e-4c63-aa1f-9f341216e841)
++
++ double[] x:   Es un arreglo que contiene los valores de la variable independiente (en este caso, las cantidades vendidas).
+
++ double[] y:    Es un arreglo que contiene los valores de la variable dependiente (los precios de los productos vendidos).
+
++ double m:    La pendiente de la recta, que determina cuánto cambia el precio por cada cambio en la cantidad.
+
++ double b:    El intercepto de la recta, que es el valor de y (precio) cuando x (cantidad) es 0.
+
+
++ (sugerimos revisar la presentacion ):
++ 
+
 ## compilacion:
 + 1): se puede compilar todo el proyecto al compilar el archivo Main.java,
 + 2): se puede compilar atravez de la shell, compilando el archivo Main.java, ue esta detro de las carpetas scr/java/main.
