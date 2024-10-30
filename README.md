@@ -11,8 +11,16 @@
 + la carpeta de (c++) contiene las regreciones lineales de c++, de proyectos anteriores, que se retoman para este proyecto.
 ### Java ) 
 + la carpeta de (java) contiene el proyecto presentado en clase, el cual imprime por consola.
++ 
++ ![image](https://github.com/user-attachments/assets/acba14c4-6f41-4c14-82e6-de852f68f119)
+
++
 ### Interfaz Java )
 + la carpeta de ( Interfaz Java ) contiene los mismos archivos de la carpeta (java) sin embargo este es en formato interfas (pantalla) solo cambia el main, donde se utilizo la libreria integrada de java (swing), donde se ajusta el main para crear botones, y una pantalla, que remplasa la imprecion por consola que se utiliza en la carpeta (Java)
++ 
++ ![image](https://github.com/user-attachments/assets/3c5e9e2c-fabc-4733-9e60-1d4234c0820a)
+
++
 
 ## readme:
 + 1) Breve vistaso Codigo:
