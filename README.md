@@ -5,6 +5,15 @@
 ### Juan David Delgado 
 ### Nicolas Martinez
 ### Camila Ariza
+
+## Organisacion Github:
+### c++) 
++ la carpeta de (c++) contiene las regreciones lineales de c++, de proyectos anteriores, que se retoman para este proyecto.
+### Java ) 
++ la carpeta de (java) contiene el proyecto presentado en clase, el cual imprime por consola.
+### Interfaz Java )
++ la carpeta de ( Interfaz Java ) contiene los mismos archivos de la carpeta (java) sin embargo este es en formato interfas (pantalla) solo cambia el main, donde se utilizo la libreria integrada de java (swing), donde se ajusta el main para crear botones, y una pantalla, que remplasa la imprecion por consola que se utiliza en la carpeta (Java)
+
 ## readme:
 + 1) Breve vistaso Codigo:
   2) Compilacion
